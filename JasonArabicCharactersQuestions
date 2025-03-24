@@ -1,17 +1,17 @@
 [
     {
-        "category": "General",
-        "question": "What is the capital of France?",
-        "answer": "Paris"
+        "category": "أ",
+        "question": "الفيلسوف الذي أطلق عليه لقب المعلم الأول ؟",
+        "answer": "أرسطو"
     },
     {
-        "category": "General",
-        "question": "What is 2 + 2?",
-        "answer": "4"
+        "category": "ب",
+        "question": "سورة من سور القرآن الكريم يطلق عليها سنام القرآن ؟",
+        "answer": "البقرة"
     },
     {
-        "category": "Science",
-        "question": "What is the chemical symbol for water?",
-        "answer": "H2O"
+        "category": "ت",
+        "question": "أسرع المخلوقات البحرية ؟",
+        "answer": "التونة"
     }
 ]
